@@ -1,0 +1,15 @@
+# секреты
+nodewatch.conf
+*.key
+*keypair*.json
+.env
+
+# данные
+*.csv
+*.log
+*.state
+*.bak*
+
+# сборка
+target/
+node_modules/
